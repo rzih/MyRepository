@@ -208,7 +208,7 @@ else if(strlen($ramadanRow['RamadanID'])==2){
 												<img style="float:left;" src="http://www.altaqwamasjid.com/images/ramandan2011.jpg"	alt="">
 												<div style="margin-left:10px;padding-top:20px;text-align:center;">
 												 <p>O ye who believe! Fasting is prescribed to you as it was prescribed to those before you, that ye may (learn) self-restraint (2:183)</p>												 
-									            </div>
+									                        </div>
 											</div>
 											
 											<!--(Un-comment this next Ramadan Insha-Allah)-->
@@ -355,7 +355,7 @@ else if(strlen($ramadanRow['RamadanID'])==2){
 												</table>												
 											</div>											
 											<div class="tabbertab">
-												<h2>Islamic Links</h2>
+												<h2>Links/Job Postings</h2>
 												<table>
 													<tr>
 														<td>
@@ -375,6 +375,16 @@ else if(strlen($ramadanRow['RamadanID'])==2){
 													<tr>
 														<td>
 															<a href="http://www.islamic-relief.com/" target="_blank"> Islamic-relief</a>
+														</td>
+													</tr>
+                                                                                                        <tr>
+														<td>
+															<a href="https://docs.google.com/document/d/16dCffXlBtoAPD_b95SapJczju07TMqL8dX3dHB3DK8Y/edit?usp=sharing" target="_blank">Warehouse position</a>
+														</td>
+													</tr>
+                                                                                                        <tr>
+														<td>
+															<a href="https://docs.google.com/document/d/1-GsdR_hdeyx2F0SC9zXGO919L6HKkQHPEOqm5aRoSO4/edit?usp=sharing" target="_blank"> Customer service position</a>
 														</td>
 													</tr>													
 												</table>
@@ -413,9 +423,14 @@ else if(strlen($ramadanRow['RamadanID'])==2){
 							<!--Ramadan (Un-comment this next Ramadan Insha-Allah)-->
 
 							<!--Eid Announcement (Un-comment this a few days before Eid Insha-Allah)-->
-							<br /><br />
-							<div style="width:577px;margin-left:3px;color:#473D19;text-align:center;background-color:#8CA436;">
+							<br /><br />                                                        
+							<div style="width:577px;margin-left:3px;color:#473D19;text-align:center;">
+                                                          <hr />
 								Insha-Allah, <span style="font-weight:bold;">Friday, July 17<sup style="font-weight:lighter;">th</sup></span> will be Eid ul Fitr. Prayer will be at 8 AM sharp, followed by our traditional breakfast and Children's gift celebration at the Masjid.
+                                                                <br /><span style="font-weight:bold;">Please bring your favorite breakfast item.</span>
+                                                                <br /></br><a href="https://drive.google.com/file/d/0B5XpVTjOtlqLdWtNcUtOb3lPU1lWNXVpc29KbTlrc0lYbzRZ/view" target="_blank">Masjid Al-Taqwa is co-sponsoring Unity Eid LA on Saturday July 18th</a>
+                                                                <br /><a href="http://events.r20.constantcontact.com/register/event?oeidk=a07eb48lupce6198e17&llr=d6cqsnlab" target="_blank">Eid Celebration at New Horizon Pasadena on Friday July 17th</a>
+                                                          <hr />
 							</div>
 							<br />
 							
